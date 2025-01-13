@@ -17,12 +17,6 @@ A comprehensive web-based finance management system that helps users track expen
   - Get alerts when nearing budget limits
   - Track budget vs. actual spending
 
-- **Reports & Analytics**
-  - Monthly spending summaries
-  - Category-wise analysis
-  - Interactive charts and graphs
-  - Export reports to PDF/CSV
-n
 
 ## Installation
 
@@ -57,13 +51,4 @@ npm start
 ```
 
 
-
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
